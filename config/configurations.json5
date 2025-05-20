@@ -1,0 +1,15 @@
+[
+  {
+    "tenantName": "CLIENT",
+    "environments": [
+      {
+        "environment": "ACC",
+        "tenantApiDomain": "xxxx.api.identitynow.com",
+        "clientId": "aaa",
+        "clientSecret": "aaa"
+      }
+    ],
+    removeKeysBeforeSaving: true,
+    extract: true
+  }
+]
